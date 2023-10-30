@@ -33,7 +33,7 @@
 
 <h3>3.3 Setup Node.js</h3>
 <ul>• Download & Install <a href="https://nodejs.org/en">Node.js</a> LTS (Recommend), or;
-  <ul>Download <a href="https://brew.sh">Homebrew</a> then input following code in Terminal: <code>brew install node</code></ul>
+  <ul>Install from <a href="https://brew.sh">Homebrew</a> with following code: <code>brew install node</code></ul>
 </ul>
 
 <h3>3.4 Setup Xcode</h3>
