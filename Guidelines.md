@@ -14,7 +14,7 @@
 <ul>• <a href="https://apps.apple.com/ca/app/xcode/id497799835?mt=12">Xcode</a></ul>
 <ul>• <a href="https://github.com/rbenv/rbenv">Ruby</a> 2.7.4 or Newer</ul>
 
-<h2>3. Configurations Steps:</h2>
+<h2>3. Configuration Steps:</h2>
 <h3>3.1 Setup Android Studio</h3>
 <ul>• While the installation, choose "standard" install is fine, and wait for installation completes.</ul>
 <ul>• Open Terminal & run: <code>nano ~/.zshrc</code> to modify zprofile.</ul>
