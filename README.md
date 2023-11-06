@@ -2,7 +2,7 @@
 <i>*** This instruction is for macOS ***</i>
 
 <h2>1. System Requirements:</h2>
-<ul>• Operating System: macOS 12 or newer / Windows 10 or newer</ul>
+<ul>• Operating System: macOS / WindowsOS</ul>
 <ul>• CPU: A multi-core processor</ul>
 <ul>• RAM: 8GB (Minimum), 16GB or more (Recommend)</ul>
 
