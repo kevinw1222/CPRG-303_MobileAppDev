@@ -69,7 +69,7 @@
 <h2>5. Running the Project:</h2>
 <ul>• Locate to project directory by running: <code>cd ProjectName</code></ul>
 <ul>• Press <code>a</code> to run android platform.</ul>
-<ul>• If you get into this step, Congratulations!!🎉🎉 You're free to develop your app.
+<ul>• If you get into this step. Congratulations!!🎉🎉 You're free to develop your app.
   <img width="719" alt="Screen Shot 2023-10-30 at 9 50 18 AM" src="https://github.com/kevinw1222/CPRG-303_MobileAppDev/assets/119633334/2550633c-323a-45fa-ba6e-92eb9bf6b1e9">
 </ul>
 <ul>• Repeat step 5 and press <code>i</code> to launch iOS platform. (Need ≈ 5 mins to initialize)
@@ -85,6 +85,6 @@
 </ul>
 
 <h2>7. Resources:</h2>
-<ul>• React-Native setup tutorrial: <a href="https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=native&platform=android">click here</a></ul>
-<ul>• Homebrew: <a href="https://brew.sh">click here</a></ul>
-<ul>• Ruby: <a href="https://github.com/rbenv/rbenv">click here</a></ul>
+<ul>• React-Native setup tutorial: <a href="https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=native&platform=android">click here</a></ul>
+<ul>• Install Homebrew: <a href="https://brew.sh">click here</a></ul>
+<ul>• Install Ruby: <a href="https://github.com/rbenv/rbenv">click here</a></ul>
