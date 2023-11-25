@@ -6,7 +6,9 @@
 import React from 'react';
 import {Button} from 'react-native';
 
-export default function AboutScreen({navigation}) {
+export default AboutScreen;
+
+function AboutScreen({navigation}) {
   return (
     <Button title="Back to Home" onPress={() => navigation.navigate('Home')} />
   );

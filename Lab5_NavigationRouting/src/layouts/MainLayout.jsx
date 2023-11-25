@@ -9,7 +9,20 @@ import {View, StyleSheet} from 'react-native';
 export default MainLayout;
 
 const MainLayout = ({children}) => {
-  return <View style={styles.container}>{children}</View>;
+  return (
+    <View style={styles.container}>
+      {children}
+      <Footer />
+    </View>
+  );
+};
+
+const HomeScreen = () => {
+  return <MainLayout>{HomeScreen}</MainLayout>;
+};
+
+const AboutScreen = () => {
+  return <MainLayout>{AboutScreen}</MainLayout>;
 };
 
 const styles = StyleSheet.create({
