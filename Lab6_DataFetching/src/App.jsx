@@ -1,5 +1,5 @@
 /**
- * Lab 6 - DataFetching
+ * Lab 6 - Data Fetching
  * GitHub: https://github.com/kevinw1222/CPRG-303_MobileAppDev/tree/main
  */
 
